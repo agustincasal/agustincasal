@@ -11,7 +11,6 @@
 - 🌱 Estoy estudiando Ingenieria en Sistemas en la Universidad Tecnologica Nacional de Rosario, asi como tambien, mejorando mis habilidades en JavaScript.
 - 💞️ Estoy ansioso de poder colaborar en cualquier proyecto que incluya Front End Development.
 - 📫 Me pueden contactar al mail: agustincasal03@gmail.com
-- 
 
 <!---
 agustincasal/agustincasal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
